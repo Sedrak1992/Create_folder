@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sedrak1992/Create_folder/static/css/main.944383eb.css",
-    "main.js": "/Sedrak1992/Create_folder/static/js/main.63e2667e.js",
-    "index.html": "/Sedrak1992/Create_folder/index.html",
-    "main.944383eb.css.map": "/Sedrak1992/Create_folder/static/css/main.944383eb.css.map",
-    "main.63e2667e.js.map": "/Sedrak1992/Create_folder/static/js/main.63e2667e.js.map"
+    "main.css": "/Create_folder/static/css/main.944383eb.css",
+    "main.js": "/Create_folder/static/js/main.63e2667e.js",
+    "index.html": "/Create_folder/index.html",
+    "main.944383eb.css.map": "/Create_folder/static/css/main.944383eb.css.map",
+    "main.63e2667e.js.map": "/Create_folder/static/js/main.63e2667e.js.map"
   },
   "entrypoints": [
     "static/css/main.944383eb.css",

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sedrak1992/Create_folder.git/static/css/main.944383eb.css",
+    "main.js": "/Sedrak1992/Create_folder.git/static/js/main.63e2667e.js",
+    "index.html": "/Sedrak1992/Create_folder.git/index.html",
+    "main.944383eb.css.map": "/Sedrak1992/Create_folder.git/static/css/main.944383eb.css.map",
+    "main.63e2667e.js.map": "/Sedrak1992/Create_folder.git/static/js/main.63e2667e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944383eb.css",
+    "static/js/main.63e2667e.js"
+  ]
+}

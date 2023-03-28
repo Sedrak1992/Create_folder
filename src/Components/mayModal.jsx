@@ -17,9 +17,11 @@ export default function AlertDialogSlide({
   setPost,
   addNewFolder,
   open,
-  handleClickOpen,
   setOpen,
 }) {
+  const handleClickOpen = () => {
+    setOpen(true);
+  };
   const handleClose = () => {
     setOpen(false);
   };
